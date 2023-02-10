@@ -1,0 +1,4 @@
+node_modules
+
+backend/uploaded/*
+!backend/uploaded/.gitkeep
